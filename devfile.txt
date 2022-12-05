@@ -1,3 +1,7 @@
 Hello Devcolibri
+<<<<<<< HEAD
 
-new line
+
+=======
+Hello Firstchange
+>>>>>>> dev
